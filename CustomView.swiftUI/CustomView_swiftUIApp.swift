@@ -12,6 +12,7 @@ struct CustomView_swiftUIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+          //  FocusView()
         }
     }
 }
