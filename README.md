@@ -1,4 +1,4 @@
-# 커스텀뷰
+# 커스텀뷰 swiftUI
 - swiftUI
 ```swift
 struct FocusView: View {
