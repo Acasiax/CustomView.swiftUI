@@ -48,7 +48,7 @@ struct FocusView: View {
     
     var body : some View {
         Rectangle()
-            .foregroundColor(Color.green)
+            .foregroundColor(Color.pink)
             .focusable(true) { focused in
                 self.isFocused = focused
             }
